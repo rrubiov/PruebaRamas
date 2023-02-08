@@ -6,6 +6,8 @@ public class Principal {
 		System.out.println("Hola mundo");
 		System.out.println("Como estas?");
 
+		System.out.println("Adios");
+
 	}
 
 }
